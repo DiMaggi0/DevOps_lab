@@ -28,7 +28,7 @@ jobs:
         path: target/DevOps_lab-1.0-SNAPSHOT.jar
         retention-days: 7
     - name: Run project
-      run: javac DevOps_lab-1.0-SNAPSHOT
+      run: java -jar DevOps_lab-1.0-SNAPSHOT
      
 
  
