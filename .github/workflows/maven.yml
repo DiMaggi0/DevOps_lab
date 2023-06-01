@@ -27,8 +27,9 @@ jobs:
         name: calculator_app
         path: target/DevOps_lab-1.0-SNAPSHOT.jar
         retention-days: 7
-    - name: Run project
-      run: java -jar DevOps_lab-1.0-SNAPSHOT
+
+ 
+
      
 
  
