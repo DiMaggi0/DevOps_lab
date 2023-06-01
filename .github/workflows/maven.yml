@@ -33,7 +33,7 @@ jobs:
       uses: actions/upload-artifact@v3.1.2
       with:
         name: calculator_app
-        path: src/main/java/org/example
+        path: src/main/java/org/example/Main.java
         retention-days: 7 
      
 
