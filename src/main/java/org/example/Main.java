@@ -6,7 +6,6 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
         while (true) {
-            System.out.println("Hik");
             System.out.println("Введите выражение: ");
             java.util.Scanner enter = new java.util.Scanner(System.in);
             String s = enter.nextLine();
