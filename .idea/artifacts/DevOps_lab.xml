@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DevOps_lab">
+    <output-path>$PROJECT_DIR$/src</output-path>
+    <root id="archive" name="DevOps_lab.jar">
+      <element id="module-output" name="DevOps_lab" />
+    </root>
+  </artifact>
+</component>
